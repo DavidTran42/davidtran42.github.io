@@ -1,10 +1,18 @@
 ---
 layout: post
-title:  "How Covid19 has changed crime incidents in San Fransisco"
+title:  "How Covid19 has changed the crime incidents in San Fransisco"
 date:   2023-03-27 12:28:16 +0200
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Covid19 has been a global phenomen that has impacte the world in many levels. What we are interested to look further into is looking through the crime data of San Fransisco from the year 2018 to 2022, to see what the numbers were prior and after Covid19. 
+<iframe src="/assignment2.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
 
 Jekyll requires blog post files to be named according to the following format:
 
