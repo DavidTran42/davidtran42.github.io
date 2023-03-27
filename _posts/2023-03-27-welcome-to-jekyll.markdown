@@ -4,7 +4,7 @@ title:  "How Covid19 has changed the crime incidents in San Francisco"
 date:   2023-03-27 12:28:16 +0200
 categories: jekyll update
 ---
-Covid19 was a global phenomena that has impacted the world in many levels. This post will take a further look into the crime data of San Fransisco from the year 2018 to 2022, to see what the numbers were prior and after Covid19. Covid19 reached the US in the early 2020, and the first covid case happened in the 30th of January for San Francisco.
+Covid19 was a global phenomena that has impacted the world in many levels. This post will take a further look into the crime data of San Fransisco from the year 2018 to 2022, to see what the numbers were prior and after Covid19. This also includes after the peak of Covid19 as well. Covid19 reached the US in the early 2020, and the first covid case happened in the 30th of January for San Francisco.
 
 <iframe src="/assignment2.html"
     sandbox="allow-same-origin allow-scripts"
@@ -23,7 +23,7 @@ Looking at the hours of the day between before and after 2019. It is a clear ind
 
 ![district](/district.jpg)
 
-Looking further into the different district at 4 am, it is easy to tell that the burglary happens mostly in the northern and central district of San Francisco, which are the places you would want to avoid having your home at those districts.
+Looking further into the different districts at 4 am for both before and after Covid19, it is easy to tell that the burglary happens mostly in the northern and central district of San Francisco, which are the places you would want to avoid having your home at those districts. Covid19 haven't really changed much the location of where the burglary is happening, but based on the numbers, the amount of burglary has incresed after Covid in comparison to before.
 
 Overall from this investigation by looking in the crime data before and after Covid19, it is clear that Covid19 had an affect on the crime incidents. Most crime incidents got lowered but a few incidents got increased numbers of their crime. The one that is interesting to look at is the burglary numbers, where the burglary now happens more often during the night rather than the day, where most people were at work. If you want to live in San Francisco, you would most likely avoid to get a home near the northern and central district. 
 
