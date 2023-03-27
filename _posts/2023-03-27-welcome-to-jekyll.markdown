@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How Covid19 has changed the crime incidents in San Fransisco"
+title:  "How Covid19 has changed the crime incidents in San Francisco"
 date:   2023-03-27 12:28:16 +0200
 categories: jekyll update
 ---
@@ -8,7 +8,7 @@ Covid19 has been a global phenomen that has impacte the world in many levels. Wh
 <iframe src="/assignment2.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="500"
+    height="700"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
