@@ -23,7 +23,7 @@ email: s184213@student.dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
   This site is for the purpose of making a github page and show 3 visualizations and tell a story to complete assignment2
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://davidtran42.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DavidTran42
 github_username:  Davidtran42
 
