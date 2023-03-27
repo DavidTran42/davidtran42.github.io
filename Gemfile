@@ -15,10 +15,6 @@ gem "minima", "~> 2.5"
 gem "github-pages", "~> 228", group: :jekyll_plugins
 # If you have any plugins, put them here!
 
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
 end
