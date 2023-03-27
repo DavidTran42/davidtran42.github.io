@@ -4,7 +4,7 @@ title:  "How Covid19 has changed the crime incidents in San Francisco"
 date:   2023-03-27 12:28:16 +0200
 categories: jekyll update
 ---
-Covid19 has been a global phenomena that has impacted the world in many levels. What we are interested to look further into is looking through the crime data of San Fransisco from the year 2018 to 2022, to see what the numbers were prior and after Covid19. Covid19 reached the US in the early 2020, and the first covid case happened in the 30th of January for San Francisco.
+Covid19 was a global phenomena that has impacted the world in many levels. This post will take a further look into the crime data of San Fransisco from the year 2018 to 2022, to see what the numbers were prior and after Covid19. Covid19 reached the US in the early 2020, and the first covid case happened in the 30th of January for San Francisco.
 
 <iframe src="/assignment2.html"
     sandbox="allow-same-origin allow-scripts"
