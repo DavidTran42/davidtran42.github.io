@@ -31,7 +31,7 @@ twitter_username: bigsmo_e7
 github_username:  davidtran42
 
 # Build settings
-theme: minima
+theme: architect
 plugins:
   - jekyll-feed
 
